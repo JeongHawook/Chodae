@@ -1,0 +1,54 @@
+.container {
+  background-color: var(--colorPurpleLight);
+}
+
+.menu {
+  font: bold 16px "malgun gothic";
+  min-height: 3rem;
+  max-width: 100rem;
+  line-height: 2.2rem;
+  text-align: center;
+  margin: 0 auto;
+  margin-bottom: 8rem;
+}
+
+.menuLink {
+  text-decoration: none;
+}
+.menuLink:link {
+  color: var(--colorNavyDark);
+}
+.menuLink:visited {
+  color: var(--colorNavyDark);
+}
+
+.menu > ul {
+  padding-left: 0;
+  list-style: none;
+}
+.menu > ul > li {
+  float: left;
+  width: 20%;
+  position: relative;
+  list-style: none;
+  padding-left: 0;
+}
+
+.menu > ul > li > ul {
+  width: 100%;
+  display: none;
+  position: absolute;
+  font-size: 14px;
+  background: #dcd6f7;
+  list-style: none;
+}
+
+.menu > ul > li:hover > ul {
+  display: block;
+}
+
+.menu > ul > li > ul > li:hover {
+  text-decoration: underline;
+  display: inline-block;
+  transition: ease 1s;
+}

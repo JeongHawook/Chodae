@@ -1,0 +1,130 @@
+.life {
+  height: 250px;
+  width: 300px;
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
+.life2 {
+  height: 300px;
+  width: 300px;
+}
+.main {
+  height: 300px;
+  margin-bottom: 5%;
+  padding: 30px;
+}
+.main2 {
+  width: 100vw;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+.miss {
+  width: 300px;
+  height: 250px;
+}
+.bottom22 {
+  border: 1px solid black;
+  height: 100px;
+}
+.cateText {
+  text-align: left;
+  font-size: 15px;
+  margin-left: 10px;
+  font-weight: 550;
+}
+.postTitle2 {
+  font-size: 18px;
+  font-weight: bolder;
+  padding: 5px;
+}
+.Card img {
+  max-width: none;
+  width: -webkit-calc(100%);
+  width: calc(100%);
+  opacity: 0.7;
+  -webkit-transition: opacity 0.35s, -webkit-transform 0.35s;
+  transition: opacity 0.35s, transform 0.35s;
+  -webkit-transform: translate3d(-40px, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
+.Card {
+  -webkit-transform: translate3d(0, 40px, 0);
+  transform: translate3d(0, 40px, 0);
+}
+
+.Card:hover img,
+.bottom-g:hover {
+  opacity: 1;
+}
+
+.Card:hover img,
+.Card:hover {
+  -webkit-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
+
+.Card:hover {
+  -webkit-transition-delay: 0.05s;
+  transition-delay: 0.05s;
+  -webkit-transition-duration: 0.35s;
+  transition-duration: 0.35s;
+}
+.paginateContainer {
+  height: 40px;
+  margin-top: 15px;
+  list-style: none;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+}
+
+.paginationBttns {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+}
+
+.paginationBttns a {
+  padding: 5px 10px;
+  margin: 4px;
+  cursor: pointer;
+}
+
+.paginationBttns a:hover {
+  border-bottom: 1px solid black;
+}
+
+.paginationActive a {
+  color: #a6b1e1;
+  background-color: white;
+  font-weight: 500;
+}
+
+.writePostBtn {
+  width: 80px;
+  height: 40px;
+  border-radius: 8px;
+  border: none;
+  background-color: #dcd6f7;
+  color: #424874;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.writePostBtnWrapper {
+  display: flex;
+  margin-left: 80%;
+}
+
+.writePostBtn:hover {
+  background: #a6b1e1;
+}
+
+.heading {
+  font-weight: bold;
+  font-size: 30px;
+  margin: 30px 0 10px 0;
+  color: #a6b1e1;
+}

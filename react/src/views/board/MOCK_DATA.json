@@ -1,0 +1,1220 @@
+[
+  {
+    "postNo": 1,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 1,
+      "content": "게시글 내용1"
+    },
+    "id": 200,
+    "postTitle": "제목1",
+    "replyCount": 5,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-24T20:04:13.927",
+    "postModdate": "2022-02-24T20:04:13.927",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [
+      {
+        "replyNo": 1,
+        "boardNo": 1,
+        "replyContent": "댓글내용",
+        "replyRegdate": "2022-02-24T23:18:37.178",
+        "replyModdate": "2022-02-24T23:18:37.178",
+        "id": 51,
+        "replyLike": 0,
+        "level": 5,
+        "upperReply": 0
+      },
+      {
+        "replyNo": 2,
+        "boardNo": 1,
+        "replyContent": "2번방법",
+        "replyRegdate": "2022-02-24T23:46:06.317",
+        "replyModdate": "2022-02-24T23:46:06.317",
+        "id": 51,
+        "replyLike": 0,
+        "level": 5,
+        "upperReply": 0
+      },
+      {
+        "replyNo": 3,
+        "boardNo": 1,
+        "replyContent": "2번방법",
+        "replyRegdate": "2022-02-24T23:47:23.41",
+        "replyModdate": "2022-02-24T23:47:23.41",
+        "id": 51,
+        "replyLike": 0,
+        "level": 5,
+        "upperReply": 0
+      },
+      {
+        "replyNo": 4,
+        "boardNo": 1,
+        "replyContent": "3번방법",
+        "replyRegdate": "2022-02-25T00:13:41.603",
+        "replyModdate": "2022-02-25T00:13:41.603",
+        "id": 51,
+        "replyLike": 0,
+        "level": 5,
+        "upperReply": 0
+      },
+      {
+        "replyNo": 5,
+        "boardNo": 1,
+        "replyContent": "3번방법",
+        "replyRegdate": "2022-02-25T00:18:33.719",
+        "replyModdate": "2022-02-25T00:18:33.719",
+        "id": 51,
+        "replyLike": 0,
+        "level": 5,
+        "upperReply": 0
+      },
+      {
+        "replyNo": 6,
+        "boardNo": 1,
+        "replyContent": "3번방법",
+        "replyRegdate": "2022-02-25T00:20:17.077",
+        "replyModdate": "2022-02-25T00:20:17.077",
+        "id": 51,
+        "replyLike": 0,
+        "level": 5,
+        "upperReply": 0
+      },
+      {
+        "replyNo": 7,
+        "boardNo": 1,
+        "replyContent": "3번방법",
+        "replyRegdate": "2022-02-25T14:20:47.718",
+        "replyModdate": "2022-02-25T14:20:47.718",
+        "id": 51,
+        "replyLike": 0,
+        "level": 5,
+        "upperReply": 0
+      }
+    ],
+    "category": []
+  },
+  {
+    "postNo": 2,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 2,
+      "content": "게시글 내용2"
+    },
+    "id": 200,
+    "postTitle": "제목2",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-24T20:04:14.081",
+    "postModdate": "2022-02-24T20:04:14.081",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 3,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 3,
+      "content": "게시글 내용3"
+    },
+    "id": 200,
+    "postTitle": "제목3",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-24T20:04:14.091",
+    "postModdate": "2022-02-24T20:04:14.091",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 4,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 4,
+      "content": "게시글 내용4"
+    },
+    "id": 200,
+    "postTitle": "제목4",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-24T20:04:14.096",
+    "postModdate": "2022-02-24T20:04:14.096",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 5,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 5,
+      "content": "게시글 내용5"
+    },
+    "id": 200,
+    "postTitle": "제목5",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-24T20:04:14.1",
+    "postModdate": "2022-02-24T20:04:14.1",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 6,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 6,
+      "content": "게시글 내용6"
+    },
+    "id": 200,
+    "postTitle": "제목6",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-24T20:04:14.104",
+    "postModdate": "2022-02-24T20:04:14.104",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 7,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 7,
+      "content": "게시글 내용7"
+    },
+    "id": 200,
+    "postTitle": "제목7",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-24T20:04:14.108",
+    "postModdate": "2022-02-24T20:04:14.108",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 8,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 8,
+      "content": "게시글 내용8"
+    },
+    "id": 200,
+    "postTitle": "제목8",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-24T20:04:14.113",
+    "postModdate": "2022-02-24T20:04:14.113",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 9,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 9,
+      "content": "게시글 내용9"
+    },
+    "id": 200,
+    "postTitle": "제목9",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-24T20:04:14.118",
+    "postModdate": "2022-02-24T20:04:14.118",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 10,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 10,
+      "content": "게시글 내용10"
+    },
+    "id": 200,
+    "postTitle": "제목10",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-24T20:04:14.121",
+    "postModdate": "2022-02-24T20:04:14.122",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 11,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 11,
+      "content": "게시글 내용11"
+    },
+    "id": 200,
+    "postTitle": "제목11",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-24T20:04:14.128",
+    "postModdate": "2022-02-24T20:04:14.128",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 12,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 12,
+      "content": "게시글 내용12"
+    },
+    "id": 200,
+    "postTitle": "제목12",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-24T20:04:14.132",
+    "postModdate": "2022-02-24T20:04:14.132",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 13,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 13,
+      "content": "게시글 내용13"
+    },
+    "id": 200,
+    "postTitle": "제목13",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-24T20:04:14.136",
+    "postModdate": "2022-02-24T20:04:14.136",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 14,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 14,
+      "content": "게시글 내용14"
+    },
+    "id": 200,
+    "postTitle": "제목14",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-24T20:04:14.14",
+    "postModdate": "2022-02-24T20:04:14.14",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 15,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 15,
+      "content": "게시글 내용15"
+    },
+    "id": 200,
+    "postTitle": "제목15",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-24T20:04:14.145",
+    "postModdate": "2022-02-24T20:04:14.145",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 16,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 16,
+      "content": "게시글 내용16"
+    },
+    "id": 200,
+    "postTitle": "제목16",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-24T20:04:14.15",
+    "postModdate": "2022-02-24T20:04:14.15",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 17,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 17,
+      "content": "게시글 내용17"
+    },
+    "id": 200,
+    "postTitle": "제목17",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-24T20:04:14.154",
+    "postModdate": "2022-02-24T20:04:14.155",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 18,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 18,
+      "content": "게시글 내용18"
+    },
+    "id": 200,
+    "postTitle": "제목18",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-24T20:04:14.161",
+    "postModdate": "2022-02-24T20:04:14.161",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 19,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 19,
+      "content": "게시글 내용19"
+    },
+    "id": 200,
+    "postTitle": "제목19",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-24T20:04:14.167",
+    "postModdate": "2022-02-24T20:04:14.167",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 20,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 20,
+      "content": "게시글 내용1"
+    },
+    "id": 200,
+    "postTitle": "제목1",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-25T14:20:47.994",
+    "postModdate": "2022-02-25T14:20:47.994",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 21,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 21,
+      "content": "게시글 내용2"
+    },
+    "id": 200,
+    "postTitle": "제목2",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-25T14:20:48.011",
+    "postModdate": "2022-02-25T14:20:48.011",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 22,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 22,
+      "content": "게시글 내용3"
+    },
+    "id": 200,
+    "postTitle": "제목3",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-25T14:20:48.015",
+    "postModdate": "2022-02-25T14:20:48.015",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 23,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 23,
+      "content": "게시글 내용4"
+    },
+    "id": 200,
+    "postTitle": "제목4",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-25T14:20:48.019",
+    "postModdate": "2022-02-25T14:20:48.019",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 24,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 24,
+      "content": "게시글 내용5"
+    },
+    "id": 200,
+    "postTitle": "제목5",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-25T14:20:48.026",
+    "postModdate": "2022-02-25T14:20:48.026",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 25,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 25,
+      "content": "게시글 내용6"
+    },
+    "id": 200,
+    "postTitle": "제목6",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-25T14:20:48.034",
+    "postModdate": "2022-02-25T14:20:48.034",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 26,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 26,
+      "content": "게시글 내용7"
+    },
+    "id": 200,
+    "postTitle": "제목7",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-25T14:20:48.04",
+    "postModdate": "2022-02-25T14:20:48.041",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 27,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 27,
+      "content": "게시글 내용8"
+    },
+    "id": 200,
+    "postTitle": "제목8",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-25T14:20:48.047",
+    "postModdate": "2022-02-25T14:20:48.047",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 28,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 28,
+      "content": "게시글 내용9"
+    },
+    "id": 200,
+    "postTitle": "제목9",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-25T14:20:48.054",
+    "postModdate": "2022-02-25T14:20:48.054",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 29,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 29,
+      "content": "게시글 내용10"
+    },
+    "id": 200,
+    "postTitle": "제목10",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-25T14:20:48.06",
+    "postModdate": "2022-02-25T14:20:48.06",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 30,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 30,
+      "content": "게시글 내용11"
+    },
+    "id": 200,
+    "postTitle": "제목11",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-25T14:20:48.067",
+    "postModdate": "2022-02-25T14:20:48.067",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 31,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 31,
+      "content": "게시글 내용12"
+    },
+    "id": 200,
+    "postTitle": "제목12",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-25T14:20:48.074",
+    "postModdate": "2022-02-25T14:20:48.074",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 32,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 32,
+      "content": "게시글 내용13"
+    },
+    "id": 200,
+    "postTitle": "제목13",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-25T14:20:48.08",
+    "postModdate": "2022-02-25T14:20:48.081",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 33,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 33,
+      "content": "게시글 내용14"
+    },
+    "id": 200,
+    "postTitle": "제목14",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-25T14:20:48.086",
+    "postModdate": "2022-02-25T14:20:48.086",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 34,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 34,
+      "content": "게시글 내용15"
+    },
+    "id": 200,
+    "postTitle": "제목15",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-25T14:20:48.091",
+    "postModdate": "2022-02-25T14:20:48.091",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 35,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 35,
+      "content": "게시글 내용16"
+    },
+    "id": 200,
+    "postTitle": "제목16",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-25T14:20:48.098",
+    "postModdate": "2022-02-25T14:20:48.098",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 36,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 36,
+      "content": "게시글 내용17"
+    },
+    "id": 200,
+    "postTitle": "제목17",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-25T14:20:48.106",
+    "postModdate": "2022-02-25T14:20:48.106",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 37,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 37,
+      "content": "게시글 내용18"
+    },
+    "id": 200,
+    "postTitle": "제목18",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-25T14:20:48.114",
+    "postModdate": "2022-02-25T14:20:48.114",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  },
+  {
+    "postNo": 38,
+    "board": {
+      "boardNo": 1,
+      "boardName": "공지사항",
+      "boardWriter": 200,
+      "boardCategory": "게시판의 카테고리",
+      "boardDate": "2022-02-25T14:20:47.385",
+      "boardOrder": "게시판순서?",
+      "boardStatus": "T"
+    },
+    "postContent": {
+      "contentNo": 38,
+      "content": "게시글 내용19"
+    },
+    "id": 200,
+    "postTitle": "제목19",
+    "replyCount": 0,
+    "postViews": 0,
+    "postLike": 0,
+    "postRegdate": "2022-02-25T14:20:48.121",
+    "postModdate": "2022-02-25T14:20:48.121",
+    "level": 5,
+    "postLevel": 5,
+    "postNotice": "F",
+    "postComment": "T",
+    "postDisplay": "T",
+    "replies": [],
+    "category": []
+  }
+]

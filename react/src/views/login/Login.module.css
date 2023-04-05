@@ -1,0 +1,97 @@
+.loginContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 100%;
+  padding: 9rem 0;
+}
+
+.loginInput {
+  width: 25rem;
+  height: 50px;
+  border-radius: 8px;
+  border: none;
+  margin: 10px;
+}
+
+.loginBtn {
+  width: 25rem;
+  height: 50px;
+  border-radius: 8px;
+  border: none;
+  margin: 10px;
+  background-color: var(--colorPurpleLight);
+  color: #424874;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.loginBtn:hover {
+  background: var(--colorPurpleBlueChodae);
+}
+
+.loginContainer input {
+  border: 2px solid #dcd6f7;
+}
+
+.signup {
+  margin-top: 1rem;
+  display: none;
+}
+
+/* ====== 소셜 로그인 버튼 CSS ======= */
+
+.socialBtnWrapper {
+  width: 25rem;
+  display: flex;
+  justify-content: space-between;
+}
+
+.socialBtn {
+  width: 12rem;
+  height: 50px;
+  cursor: pointer;
+  margin-top: 5px;
+}
+
+/* =========== 반응형 css ========== */
+
+@media only screen and (max-width: 900px) {
+  .loginInput {
+    width: 20rem;
+    height: 50px;
+    border-radius: 8px;
+    border: none;
+    margin: 10px;
+  }
+
+  .loginBtn {
+    width: 20rem;
+    height: 50px;
+    border-radius: 8px;
+    border: none;
+    margin: 10px;
+    background-color: var(--colorPurpleLight);
+    color: #424874;
+    cursor: pointer;
+    font-weight: bold;
+    font-size: 15px;
+  }
+
+  .socialBtnWrapper {
+    width: 20rem;
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .socialBtn {
+    width: 9.5rem;
+    height: 50px;
+    cursor: pointer;
+  }
+
+  .signup {
+    display: block;
+  }
+}
